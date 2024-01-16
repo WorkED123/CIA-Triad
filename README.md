@@ -112,10 +112,12 @@ As we conclude, let's remember that the principles of the CIA triad serve as a f
 
 
 <h2> Presentation</h2>
-<a href= "https://github.com/WorkED123/whatiscyber/blob/main/What%20is%20Cybersecurity.pptx"> What is Cybersecurity </a>
+<a href= "https://docs.google.com/presentation/d/1b_rjKlx8CDA0s09PlVIY7_YwxVeadURO/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> Information Security and the CIA Triad </a>
  <br>
 <h2> Hands-On Labs</h2>
- <a href="https://github.com/WorkED123/CIA-Triad/blob/main/CIA%20Research%20Activity.docx"> CIA Research Activity </a>
+ <a href="https://github.com/WorkED123/CIA-Triad/blob/main/CIA%20Research%20Activity.docx"> CIA Research Activity (download) </a><br>
+ <br>
+ <a href="https://docs.google.com/document/d/1_zTeFwzBk55tdPuZNPvYTRmy7nmROtqQcxdYQGc8-KY/edit?usp=sharing"> CIA Research Activity (link) </a>
  <br>
 
 <h2> Additonal Resources</h2>
