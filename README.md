@@ -1,4 +1,4 @@
-<h1> Lesson 1.1: CIA Triad</h1>
+<h1> Lesson 1.2: CIA Triad</h1>
 <h2> Summary</h2>
 
 <p1>In this Lesson, students will understand the three foundational pillars that cybersecurity is built on, the CIA Triad.</p1>
