@@ -115,13 +115,14 @@ As we conclude, let's remember that the principles of the CIA triad serve as a f
 <a href= "https://github.com/WorkED123/whatiscyber/blob/main/What%20is%20Cybersecurity.pptx"> What is Cybersecurity </a>
  <br>
 <h2> Hands-On Labs</h2>
- <a href="https://github.com/WorkED123/whatiscyber/blob/main/Keylogging%20Challenge.docx"> Keylogging Challenge </a>
+ <a href=""> CIA Research Activity </a>
  <br>
 
 <h2> Additonal Resources</h2>
 <p1>
-<a href="https://www.youtube.com/watch?v=ULGILG-ZhO0">Introduction to Cybersecurity: </a> CBT Nuggets trainer Keith Barker explains why security is more important than ever and how to enter the burgeoning career field. <br>
+Pesante, L. <a href="https://www.cisa.gov/sites/default/files/publications/infosecuritybasics.pdf">"Introduction to Information Security [PDF]” </a>February 06, 2013. CISA.
+ <br>
 <br>
-<a href="https://www.ftc.gov/system/files/attachments/cybersecurity-small-business/cybersecuirty_sb_factsheets_all.pdf">Cybersecurity Basics: </a>Knowing some cybersecurity basics and putting them into practice will help you protect your business and reduce the risk of a cyber attack.
-<br>
+Cole, M., Esposito, R., Biddle, S., & Grim, R. (2017, June 5). <a href="https://theintercept.com/2017/06/05/top-secret-nsa-report-details-russian-hacking-effort-days-before-2016-election/"> Top-Secret NSA Report Details Russian Hacking Effort Days Before 2016 Election. The Intercept.</a>
+  
 </p1>
