@@ -137,6 +137,9 @@ As we conclude, let's remember that the principles of the CIA triad serve as a f
 <a href= "https://docs.google.com/presentation/d/1b_rjKlx8CDA0s09PlVIY7_YwxVeadURO/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> Information Security and the CIA Triad </a>
  <br>
 <h2> Hands-On Labs</h2>
+ <a href="https://github.com/WorkED123/phishing/tree/main">Phishing Analysis Fundamentals</a> - Easy <br>
+ 
+ <a href="https://github.com/WorkED123/CIA-report/tree/main"> CIA Report</a> - Medium <br>
 
  <h2>Games</h2>
 
