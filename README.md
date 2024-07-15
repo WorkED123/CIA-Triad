@@ -112,6 +112,21 @@ As we conclude, let's remember that the principles of the CIA triad serve as a f
 
  <h2>Vocabulary</h2>
 
+Virus: A type of malware that attaches itself to a program or file, enabling it to spread from one computer to another, leaving infections as it travels.
+<br>
+Worm: A type of malware that can replicate itself to spread to other computers without needing to attach to a program.
+<br>
+Trojan: A type of malware disguised as legitimate software that tricks users into loading and executing it on their systems.
+<br>
+Ransomware: A type of malware that locks or encrypts files on a victim's computer, demanding a ransom to restore access.
+<br>
+Spyware: A type of malware that secretly observes the user's activities without permission and reports it to the software's author.
+<br>
+Adware: A type of malware that automatically delivers advertisements, usually in the form of pop-ups, and can sometimes come bundled with free software.
+<br>
+Rootkit: A type of malware designed to gain unauthorized access to a computer and conceal its presence, allowing the attacker to take control of the system.
+<br>
+
 
 <h2> Presentation</h2>
 <a href= "https://docs.google.com/presentation/d/1b_rjKlx8CDA0s09PlVIY7_YwxVeadURO/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> Information Security and the CIA Triad </a>
