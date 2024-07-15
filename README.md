@@ -108,7 +108,9 @@ Different careers in cybersecurity may focus on one or more aspects of the CIA t
 As we conclude, let's remember that the principles of the CIA triad serve as a foundational guide for anyone interested in cybersecurity. Always be proactive in employing these principles to secure your digital world.
 </p1>
 <br>
- 
+
+
+ <h2>Vocabulary</h2>
 
 
 <h2> Presentation</h2>
@@ -118,11 +120,7 @@ As we conclude, let's remember that the principles of the CIA triad serve as a f
  <a href="https://docs.google.com/document/d/1_zTeFwzBk55tdPuZNPvYTRmy7nmROtqQcxdYQGc8-KY/edit?usp=sharing"> CIA Research Activity </a>
  <br>
 
+ <h2>Games</h2>
+
 <h2> Additonal Resources</h2>
-<p1>
-Pesante, L. <a href="https://www.cisa.gov/sites/default/files/publications/infosecuritybasics.pdf">"Introduction to Information Security [PDF]” </a>February 06, 2013. CISA.
- <br>
-<br>
-Cole, M., Esposito, R., Biddle, S., & Grim, R. (2017, June 5). <a href="https://theintercept.com/2017/06/05/top-secret-nsa-report-details-russian-hacking-effort-days-before-2016-election/"> Top-Secret NSA Report Details Russian Hacking Effort Days Before 2016 Election. The Intercept.</a>
-  
-</p1>
+
